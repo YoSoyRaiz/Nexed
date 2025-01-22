@@ -1,0 +1,86 @@
+@font-face {
+    font-family: "flaticon_vistro";
+    src: url("./flaticon_vistro.ttf?2cabfe4c254cfa859158be32f43c4701") format("truetype"),
+url("./flaticon_vistro.woff?2cabfe4c254cfa859158be32f43c4701") format("woff"),
+url("./flaticon_vistro.woff2?2cabfe4c254cfa859158be32f43c4701") format("woff2"),
+url("./flaticon_vistro.eot?2cabfe4c254cfa859158be32f43c4701#iefix") format("embedded-opentype"),
+url("./flaticon_vistro.svg?2cabfe4c254cfa859158be32f43c4701#flaticon_vistro") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_vistro !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-viber:before {
+    content: "\f101";
+}
+.flaticon-passport:before {
+    content: "\f102";
+}
+.flaticon-passport-1:before {
+    content: "\f103";
+}
+.flaticon-around:before {
+    content: "\f104";
+}
+.flaticon-destination:before {
+    content: "\f105";
+}
+.flaticon-destination-1:before {
+    content: "\f106";
+}
+.flaticon-link:before {
+    content: "\f107";
+}
+.flaticon-phone:before {
+    content: "\f108";
+}
+.flaticon-passport-2:before {
+    content: "\f109";
+}
+.flaticon-passport-3:before {
+    content: "\f10a";
+}
+.flaticon-air-freight:before {
+    content: "\f10b";
+}
+.flaticon-maps:before {
+    content: "\f10c";
+}
+.flaticon-visa:before {
+    content: "\f10d";
+}
+.flaticon-family:before {
+    content: "\f10e";
+}
+.flaticon-traveling:before {
+    content: "\f10f";
+}
+.flaticon-approve:before {
+    content: "\f110";
+}
+.flaticon-identity-card:before {
+    content: "\f111";
+}
+.flaticon-travel-and-tourism:before {
+    content: "\f112";
+}
+.flaticon-documentation:before {
+    content: "\f113";
+}
+.flaticon-destination-2:before {
+    content: "\f114";
+}
+.flaticon-approved:before {
+    content: "\f115";
+}
+.flaticon-visa-1:before {
+    content: "\f116";
+}

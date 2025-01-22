@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "flaticon_vistro";
+    src: url("../fonts/flaticon_vistro.ttf?0af758caec4ddca2a16b98be77bcac1a") format("truetype"),
+url("../fonts/flaticon_vistro.woff?0af758caec4ddca2a16b98be77bcac1a") format("woff"),
+url("../fonts/flaticon_vistro.woff2?0af758caec4ddca2a16b98be77bcac1a") format("woff2"),
+url("../fonts/flaticon_vistro.eot?0af758caec4ddca2a16b98be77bcac1a#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_vistro.svg?0af758caec4ddca2a16b98be77bcac1a#flaticon_vistro") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_vistro !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-left-quote:before {
+    content: "\f101";
+}
+.flaticon-feather:before {
+    content: "\f102";
+}
+.flaticon-viber:before {
+    content: "\f103";
+}
+.flaticon-passport:before {
+    content: "\f104";
+}
+.flaticon-passport-1:before {
+    content: "\f105";
+}
+.flaticon-around:before {
+    content: "\f106";
+}
+.flaticon-destination:before {
+    content: "\f107";
+}
+.flaticon-destination-1:before {
+    content: "\f108";
+}
+.flaticon-link:before {
+    content: "\f109";
+}
+.flaticon-phone:before {
+    content: "\f10a";
+}
+.flaticon-passport-2:before {
+    content: "\f10b";
+}
+.flaticon-passport-3:before {
+    content: "\f10c";
+}
+.flaticon-phone-1:before {
+    content: "\f10d";
+}
+.flaticon-air-freight:before {
+    content: "\f10e";
+}
+.flaticon-maps:before {
+    content: "\f10f";
+}
+.flaticon-visa:before {
+    content: "\f110";
+}
+.flaticon-family:before {
+    content: "\f111";
+}
+.flaticon-traveling:before {
+    content: "\f112";
+}
+.flaticon-approve:before {
+    content: "\f113";
+}
+.flaticon-identity-card:before {
+    content: "\f114";
+}
+.flaticon-travel-and-tourism:before {
+    content: "\f115";
+}
+.flaticon-documentation:before {
+    content: "\f116";
+}
+.flaticon-destination-2:before {
+    content: "\f117";
+}
+.flaticon-approved:before {
+    content: "\f118";
+}
+.flaticon-visa-1:before {
+    content: "\f119";
+}

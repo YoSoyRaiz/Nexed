@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Home 02 were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://nexed.local
+Data file = /Users/maxwellherbert/Local Sites/nexed/app/public/wp-content/plugins/vistro-core/admin/demo/content.xml
+Widget file = /Users/maxwellherbert/Local Sites/nexed/app/public/wp-content/plugins/vistro-core/admin/demo/widgets.wie
+Customizer file = /Users/maxwellherbert/Local Sites/nexed/app/public/wp-content/plugins/vistro-core/admin/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search Here - Imported
+Vistro Category Widget - Catagory - Imported
+Vistro Recent Posts (Vistro) - Latest Post - Imported
+Tag Cloud - Tags - Imported
+
+Service Sidebar : 
+
+Search - Search Here - Imported
+Vistro Gallery Widget - Gallery - Imported
+Vistro Service Cat Widget - Visa Category - Imported
+Vistro Category Widget - Catagory - Imported
+Tag Cloud - Tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

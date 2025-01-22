@@ -1,0 +1,117 @@
+$flaticon_vistro-font: "flaticon_vistro";
+
+@font-face {
+    font-family: $flaticon_vistro-font;
+    src: url("./flaticon_vistro.ttf?9d9675a5e85086e5abd8d87bcffe8418") format("truetype"),
+url("./flaticon_vistro.woff?9d9675a5e85086e5abd8d87bcffe8418") format("woff"),
+url("./flaticon_vistro.woff2?9d9675a5e85086e5abd8d87bcffe8418") format("woff2"),
+url("./flaticon_vistro.eot?9d9675a5e85086e5abd8d87bcffe8418#iefix") format("embedded-opentype"),
+url("./flaticon_vistro.svg?9d9675a5e85086e5abd8d87bcffe8418#flaticon_vistro") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_vistro !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_vistro-map: (
+    "viber": "\f101",
+    "passport": "\f102",
+    "passport-1": "\f103",
+    "around": "\f104",
+    "destination": "\f105",
+    "destination-1": "\f106",
+    "link": "\f107",
+    "phone": "\f108",
+    "passport-2": "\f109",
+    "passport-3": "\f10a",
+    "phone-1": "\f10b",
+    "air-freight": "\f10c",
+    "maps": "\f10d",
+    "visa": "\f10e",
+    "family": "\f10f",
+    "traveling": "\f110",
+    "approve": "\f111",
+    "identity-card": "\f112",
+    "travel-and-tourism": "\f113",
+    "documentation": "\f114",
+    "destination-2": "\f115",
+    "approved": "\f116",
+    "visa-1": "\f117",
+);
+
+.flaticon-viber:before {
+    content: map-get($flaticon_vistro-map, "viber");
+}
+.flaticon-passport:before {
+    content: map-get($flaticon_vistro-map, "passport");
+}
+.flaticon-passport-1:before {
+    content: map-get($flaticon_vistro-map, "passport-1");
+}
+.flaticon-around:before {
+    content: map-get($flaticon_vistro-map, "around");
+}
+.flaticon-destination:before {
+    content: map-get($flaticon_vistro-map, "destination");
+}
+.flaticon-destination-1:before {
+    content: map-get($flaticon_vistro-map, "destination-1");
+}
+.flaticon-link:before {
+    content: map-get($flaticon_vistro-map, "link");
+}
+.flaticon-phone:before {
+    content: map-get($flaticon_vistro-map, "phone");
+}
+.flaticon-passport-2:before {
+    content: map-get($flaticon_vistro-map, "passport-2");
+}
+.flaticon-passport-3:before {
+    content: map-get($flaticon_vistro-map, "passport-3");
+}
+.flaticon-phone-1:before {
+    content: map-get($flaticon_vistro-map, "phone-1");
+}
+.flaticon-air-freight:before {
+    content: map-get($flaticon_vistro-map, "air-freight");
+}
+.flaticon-maps:before {
+    content: map-get($flaticon_vistro-map, "maps");
+}
+.flaticon-visa:before {
+    content: map-get($flaticon_vistro-map, "visa");
+}
+.flaticon-family:before {
+    content: map-get($flaticon_vistro-map, "family");
+}
+.flaticon-traveling:before {
+    content: map-get($flaticon_vistro-map, "traveling");
+}
+.flaticon-approve:before {
+    content: map-get($flaticon_vistro-map, "approve");
+}
+.flaticon-identity-card:before {
+    content: map-get($flaticon_vistro-map, "identity-card");
+}
+.flaticon-travel-and-tourism:before {
+    content: map-get($flaticon_vistro-map, "travel-and-tourism");
+}
+.flaticon-documentation:before {
+    content: map-get($flaticon_vistro-map, "documentation");
+}
+.flaticon-destination-2:before {
+    content: map-get($flaticon_vistro-map, "destination-2");
+}
+.flaticon-approved:before {
+    content: map-get($flaticon_vistro-map, "approved");
+}
+.flaticon-visa-1:before {
+    content: map-get($flaticon_vistro-map, "visa-1");
+}

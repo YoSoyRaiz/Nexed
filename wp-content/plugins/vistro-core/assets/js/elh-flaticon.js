@@ -1,0 +1,29 @@
+{
+    "icons": [
+        "flaticon-left-quote",
+        "flaticon-feather",
+        "flaticon-viber",
+        "flaticon-passport",
+        "flaticon-passport-1",
+        "flaticon-around",
+        "flaticon-destination",
+        "flaticon-destination-1",
+        "flaticon-link",
+        "flaticon-phone",
+        "flaticon-passport-2",
+        "flaticon-passport-3",
+        "flaticon-phone-1",
+        "flaticon-air-freight",
+        "flaticon-maps",
+        "flaticon-visa",
+        "flaticon-family",
+        "flaticon-traveling",
+        "flaticon-approve",
+        "flaticon-identity-card",
+        "flaticon-travel-and-tourism",
+        "flaticon-documentation",
+        "flaticon-destination-2",
+        "flaticon-approved",
+        "flaticon-visa-1"
+    ]
+}
